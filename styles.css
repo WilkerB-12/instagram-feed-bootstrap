@@ -13,3 +13,11 @@ h5 {
 p {
     margin-bottom: 8px; 
 }
+.pill-gray a {
+    color: gray;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: gray;
+}
